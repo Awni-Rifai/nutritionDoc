@@ -172,3 +172,8 @@ exit(0);
 1636360309_7119:"Notice: awniRifai, 127.0.0.1; Customize_changeset status has been changed; details: ID: 636,Old status: auto-draft,New status: publish,Title: "
 1636369654_3657:"Warning: awniRifai, 127.0.0.1; User account edited; ID: 1; name: awniRifai; old_name: awniRifai; email: awni.rifai1998@gmail.com; old_email: awni.rifai1998@gmail.com; roles: administrator; old_roles: administrator"
 1636369857_1384:"Warning: awniRifai, 127.0.0.1; Plugin activated: All in One SEO (v4.1.4.4; all-in-one-seo-pack\/all_in_one_seo_pack.php)"
+1636372949_4103:"Warning: awniRifai, 127.0.0.1; Plugin deactivated: All in One SEO (v4.1.4.4; all-in-one-seo-pack\/all_in_one_seo_pack.php)"
+1636373161_6822:"Notice: awniRifai, 127.0.0.1; Page was updated; ID: 364; name: Home"
+1636373161_7482:"Notice: awniRifai, 127.0.0.1; Revision status has been changed; details: ID: 637,Old status: new,New status: inherit,Title: Home"
+1636373165_8837:"Notice: awniRifai, 127.0.0.1; Page was updated; ID: 364; name: Home"
+1636373447_0408:"Warning: awniRifai, 127.0.0.1; Plugin activated: Limit Login Attempts Reloaded (v2.23.2; limit-login-attempts-reloaded\/limit-login-attempts-reloaded.php)"
